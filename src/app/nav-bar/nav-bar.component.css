@@ -1,0 +1,39 @@
+.nav-bar-principal{
+  background: -webkit-linear-gradient(90deg, #1c72ce,#ea4ffc,#9d0daf);/* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(90deg, #1c72ce,#ea4ffc,#9d0daf);/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  display: flex;
+  justify-content: space-between;
+  font-size: large;
+  align-items: center;
+  padding-left: 5%;
+  padding-right: 5%;
+
+  height: 8vh;
+}
+
+.nav-bar-home{
+  display: flex;
+  width : 10vw;
+
+}
+
+.nav-bar-navigation{
+
+  display:flex;
+  justify-content: space-between;
+  width: 20vw;
+}
+
+.nav-bar-utilisateur{
+  display: flex;
+  justify-content: space-between;
+
+  width : 10vw;
+
+}
+
+.cart{
+  width: 35px;
+  height:35px;
+
+}

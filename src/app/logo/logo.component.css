@@ -1,0 +1,9 @@
+.logo{
+  background-image: url("../../../public/logo.jpg");
+  background-size: 250px;
+  background-repeat: no-repeat;
+  width: 250px;
+  height: 250px;
+
+  border-radius: 100%;
+}
